@@ -29,11 +29,11 @@
 
 <div align="center">
 
-  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJmd2ZqajlpZGZ1cm0yemZiZHltYmZndDVlbHE3cTMwbHRlc3I5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif?" width="260" height="350" />
+  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5MGgxcDc1aTB4MG53czRvd2M1M3VlaHUyY2lxNzV2ZTlha2wxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RBIwm8rlA2Fy1CG5xa/giphy.gif?" width="260" height="350" />
 
   <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwzMnZ6NzlhdGI2cWtxMTFvN2xnNXE2bDFrdDV4bzF4NWM1Y2NveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/li7H27JwLTBxeeXgJ8/giphy.gif?" width="260" height="350" />
 
-  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJmd2ZqajlpZGZ1cm0yemZiZHltYmZndDVlbHE3cTMwbHRlc3I5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SN7VRxzzcby9nyKJV/giphy.gif?" width="260" height="350" />
+  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5MGgxcDc1aTB4MG53czRvd2M1M3VlaHUyY2lxNzV2ZTlha2wxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RBIwm8rlA2Fy1CG5xa/giphy.gif?" width="260" height="350" />
 
 </div>
 
@@ -44,23 +44,21 @@
       <img src="https://leetcode.card.workers.dev/PiyushGarg07?theme=wtf&font=baloo&extension=null" alt="LeetCode Stats"/>
     </td>
     <td align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  </picture>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Piyushgarg06?cardType=octocat&theme=tokyonight&preferLogin=false" alt="My Awesome Stats"/>
+      </a>
     </td>
   </tr>
 </table>
+
 <br><br>
 <div align="center">
 
   <!-- Streak Stats -->
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Piyushgarg06?cardType=octocat&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
-  <br><br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushgarg06)](https://github.com/Piyushgarg06)   
+  <br><br>
 </div>
+<img src="https://pacman.abozanona.me?username=Piyushgarg06" />
 <br><br>
 <div align="center">
    <img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGsyMHRqendsODFveTJvY2hianJ5eDNvYnNxMHlsaXBjbDJ6OHFzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fx3VWDj00X8zXDDSLK/giphy.gif?" width="260" height="350" />

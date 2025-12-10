@@ -5,7 +5,7 @@
 <p></p>
 
 
-- 🌱 I’m currently Grinding **LeetCode** learning **Machine Learning**  <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnZ3p2MzdmMGY1NzBqc3BqMmZncWx1ZXhpczVwZDNyaGQ4OXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" width="260" height="400" />
+- 🌱 I’m currently Grinding **LeetCode** and learning **Machine Learning**  <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnZ3p2MzdmMGY1NzBqc3BqMmZncWx1ZXhpczVwZDNyaGQ4OXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" width="260" height="400" />
 - 👀 I’m interested in AI and Machine Learning
 - 💞️ I’m looking to collaborate on real-time collaborative project
 - 📫 How to reach me **erpiyushgarg17@gmail.com**  

@@ -29,11 +29,9 @@
 
 <div align="center">
 
-  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5MGgxcDc1aTB4MG53czRvd2M1M3VlaHUyY2lxNzV2ZTlha2wxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RBIwm8rlA2Fy1CG5xa/giphy.gif?" width="260" height="350" />
+
 
   <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwzMnZ6NzlhdGI2cWtxMTFvN2xnNXE2bDFrdDV4bzF4NWM1Y2NveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/li7H27JwLTBxeeXgJ8/giphy.gif?" width="260" height="350" />
-
-  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5MGgxcDc1aTB4MG53czRvd2M1M3VlaHUyY2lxNzV2ZTlha2wxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RBIwm8rlA2Fy1CG5xa/giphy.gif?" width="260" height="350" />
 
 </div>
 

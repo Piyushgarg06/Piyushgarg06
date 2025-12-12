@@ -4,12 +4,25 @@
 <br>
 <p></p>
 
+<table align="center" justify-content="space-between" style="border:none;">
+  <tr>
+    <td align="left">
+      <div>
+          - 🌱 I’m currently Grinding **LeetCode** and learning **Machine Learning**<br>
+          - 👀 I’m interested in AI and Machine Learning<br>
+          - 💞️ I’m looking to collaborate on a real-time collaborative project<br>
+          - 📫 How to reach me **erpiyushgarg17@gmail.com**  <br>
+          - ⚡ Fun fact **I love Playing Roblox**<br>
+      </div>
+    </td>
+    <td align="right">
+      <img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGsyMHRqendsODFveTJvY2hianJ5eDNvYnNxMHlsaXBjbDJ6OHFzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fx3VWDj00X8zXDDSLK/giphy.gif?" width="260" height="350" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently Grinding **LeetCode** and learning **Machine Learning**  <img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnZ3p2MzdmMGY1NzBqc3BqMmZncWx1ZXhpczVwZDNyaGQ4OXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" width="260" height="400" />
-- 👀 I’m interested in AI and Machine Learning
-- 💞️ I’m looking to collaborate on real-time collaborative project
-- 📫 How to reach me **erpiyushgarg17@gmail.com**  
-- ⚡ Fun fact **I love Playing Roblox**
+
+
 
   
 <br><br>
@@ -59,8 +72,7 @@
 <img src="https://pacman.abozanona.me?username=Piyushgarg06" />
 <br><br>
 <div align="center">
-   <img alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGsyMHRqendsODFveTJvY2hianJ5eDNvYnNxMHlsaXBjbDJ6OHFzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fx3VWDj00X8zXDDSLK/giphy.gif?" width="260" height="350" />
-  
+    <img alt="Coding"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnZ3p2MzdmMGY1NzBqc3BqMmZncWx1ZXhpczVwZDNyaGQ4OXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" width="260" height="400" />
 </div>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Garg<br>AI & ML Learner • Python • Algorithms • Curiosity 😄</h1>
+<h1 align="center">Hi 👋, I'm Piyush Garg<br>AI & Deep Learning • Machine Learning • Intelligent Systems</h1>
 
 ###
 <br>

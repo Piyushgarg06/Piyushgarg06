@@ -8,11 +8,12 @@
   <tr>
     <td align="left">
       <div>
-          - 🌱 I’m currently Grinding **LeetCode** and learning **Machine Learning**<br>
-          - 👀 I’m interested in AI and Machine Learning<br>
-          - 💞️ I’m looking to collaborate on a real-time collaborative project<br>
-          - 📫 How to reach me **erpiyushgarg17@gmail.com**  <br>
-          - ⚡ Fun fact **I love Playing Roblox**<br>
+        - 🌱 Working on <strong>Deep Learning & Machine Learning</strong><br>
+        - 👀 Interested in <strong>AI, Generative Models & Intelligent Systems</strong><br>
+        - 💞️ Open to <strong>AI/ML collaborations & real-world projects</strong><br>
+        - 📫 <strong>erpiyushgarg17@gmail.com</strong><br>
+        - ⚡ Also practicing <strong>DSA fundamentals</strong><br>
+        - 🎧 Fun fact: <strong>I enjoy listening to Sabrina Carpenter</strong><br>
       </div>
     </td>
     <td align="right">
@@ -48,32 +49,9 @@
 
 </div>
 
-<br><br>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://leetcode.card.workers.dev/PiyushGarg07?theme=wtf&font=baloo&extension=null" alt="LeetCode Stats"/>
-    </td>
-    <td align="center">
-      <a href="https://git.io/awesome-stats-card">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Piyushgarg06?cardType=octocat&theme=tokyonight&preferLogin=false" alt="My Awesome Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-<div align="center">
 
   <!-- Streak Stats -->
 
-  <br><br>
-</div>
-<img src="https://pacman.abozanona.me?username=Piyushgarg06" />
-<br><br>
-<div align="center">
-    <img alt="Coding"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhnZ3p2MzdmMGY1NzBqc3BqMmZncWx1ZXhpczVwZDNyaGQ4OXR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1E2VyhFsxawRbeo/giphy.gif" width="260" height="400" />
-</div>
 
 
 

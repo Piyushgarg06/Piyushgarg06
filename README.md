@@ -8,10 +8,10 @@
   <tr>
     <td align="left">
       <div>
-        - 🌱 Working on <strong>Deep Learning & Machine Learning</strong><br>
+        - 🌱 Working on <strong>Deep Learning (PyTorch) & Machine Learning</strong><br>
         - 👀 Interested in <strong>AI, Generative Models & Intelligent Systems</strong><br>
-        - 💞️ Open to <strong>AI/ML collaborations & real-world projects</strong><br>
-        - 📫 <strong>erpiyushgarg17@gmail.com</strong><br>
+        - 💞️ Open to <strong>AI/ML projects & intelligent system development</strong><br>
+        - 📫 <strong>Contact:</strong> erpiyushgarg17@gmail.com<br>
         - ⚡ Also practicing <strong>DSA fundamentals</strong><br>
         - 🎧 Fun fact: <strong>I enjoy listening to Sabrina Carpenter</strong><br>
       </div>

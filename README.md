@@ -22,22 +22,32 @@
 
 <br><br>
 
-<h3>Connect with me:</h3>
+### Connect with me:
 
-<!-- IMPORTANT: no spaces / no newlines between tags -->
-<p>
-<a href="https://www.linkedin.com/in/piyushgargtech/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a><a href="https://instagram.com/gargpiyush_desu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a><a href="https://www.leetcode.com/piyushgarg07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"></a>
-</p>
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">](https://www.linkedin.com/in/piyushgargtech/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40">](https://instagram.com/gargpiyush_desu)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40">](https://www.leetcode.com/piyushgarg07)
 
-<h3>Languages and Tools:</h3>
+### Languages and Tools:
 
-<!-- SAME RULE: keep everything inline, no line breaks -->
-<p>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"></a><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></a><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></a><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></a><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"></a><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"></a><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"></a><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"></a><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></a><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"></a><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"></a><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></a><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"></a>
-</p>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">](https://www.cprogramming.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">](https://www.w3schools.com/cpp/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">](https://www.mongodb.com/)
+[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40">](https://opencv.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40">](https://pandas.pydata.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">](https://www.python.org)
+[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40">](https://pytorch.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">](https://reactjs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40">](https://scikit-learn.org/)
+[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40">](https://seaborn.pydata.org/)
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40">](https://tailwindcss.com/)
+[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40">](https://www.tensorflow.org)
 
 <br><br>
 
 <div align="center">
-  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwzMnZ6NzlhdGI2cWtxMTFvN2xnNXE2bDFrdDV4bzF4NWM1Y2NveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/li7H27JwLTBxeeXgJ8" width="260" height="350" />
+  <img alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGwzMnZ6NzlhdGI2cWtxMTFvN2xnNXE2bDFrdDV4bzF4NWM1Y2NveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/li7H27JwLTBxeeXgJ8/giphy.gif" width="260" height="350" />
 </div>
